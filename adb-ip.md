@@ -7,8 +7,10 @@
 1.你的Android设备已经连接到无线网络（此处的无线网络包括WiFi和WAPI，不包括3G或2G的移动网络）。
 
 2.已连接到你的Android设备，即adb devices可以发现设备
- 
-先执行命令：adb shell netcfg再执行命令：adb shell ifconfig eth0
+ 
+~~先执行命令：adb shell netcfg~~
+
+再执行命令：adb shell ifconfig eth0
 
 ---------------------
 
