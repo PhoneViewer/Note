@@ -1,5 +1,5 @@
 
-# Note
+ [回到目录](https://github.com/PhoneViewer/Note/blob/master/README.md)
 
 ## 利用adb无线连接android手机进行调式 无需获得root权限
 
